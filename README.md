@@ -1,6 +1,6 @@
 ## CS689A COMPUTATIONAL LINGUISTICS FOR INDIAN LANGUAGES
 ## Morphological Analysis of Hindi
-##### Author : Abhinav Kuruma-22111401, Sanket Kale-22111052, Saqeeb-22111053
+##### Authors : Abhinav Kuruma-22111401, Sanket Kale-22111052, Saqeeb-22111053
 ---
 ### Dataset Link
 Hindi Corpora - https://indicnlp.ai4bharat.org/corpora/#downloads
